@@ -32,7 +32,7 @@ function App() {
       image: "/character/two.png",
     },
     {
-      content: `Then we went on our first date… And I realized—yep, I wanted this.
+      content: `Then we went on our first date 😊… And I realized—yep, I wanted this.
       `,
       image: "/character/three.png",
     },
@@ -49,11 +49,11 @@ function App() {
       image: "/character/five.png",
     },
     {
-      content: "So now I've got a question for you…",
+      content: "So now I've got a question for you 🥹…",
       image: "/character/six.png",
     },
     {
-      content: "Will you be my valentine bay girl?",
+      content: "Will you be my valentine baby girl?",
       image: "/character/seven.png",
     },
   ];
