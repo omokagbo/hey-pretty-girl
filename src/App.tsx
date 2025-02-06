@@ -22,17 +22,17 @@ const track = async () => {
 function App() {
   const steps = [
     {
-      content: "Heyyyyy, baby girl 😍.",
+      content: "Heyyyyy baby girl 😍.",
       image: "/character/one.png",
     },
     {
-      content: `It's been more than a year since we met.
+      content: `It's been more than a year since we met 🥹.
       You have become a very important part of my life.
       `,
       image: "/character/two.png",
     },
     {
-      content: `Then we went on our first date… And I realized—yep, I want this girl.
+      content: `Then we went on our first date… And I realized—yep, I wanted this.
       `,
       image: "/character/three.png",
     },
@@ -53,7 +53,7 @@ function App() {
       image: "/character/six.png",
     },
     {
-      content: "Will you be my Valentine?",
+      content: "Will you be my valentine bay girl?",
       image: "/character/seven.png",
     },
   ];
